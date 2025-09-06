@@ -45,7 +45,7 @@ Cílem projektu je analyzovat využívání služby sdílených kol v Bostonu a 
 
 ---
 
-## 🚀 Jak otevřít projekt
+## Jak otevřít projekt
 1. Stáhněte soubor `BikeSharing_Boston.pbix`.  
 2. Otevřete jej v aplikaci **Microsoft Power BI Desktop**.  
 3. V případě potřeby aktualizujte cesty ke zdrojovým datům.  
